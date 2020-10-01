@@ -1,5 +1,8 @@
 #licnec  
 import numpy as np
+import axis as ax
+import maxiter as mitr
+import gaussian as gs
 
 
 def power_iteration(
